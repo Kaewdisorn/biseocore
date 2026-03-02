@@ -1,2 +1,2 @@
-# biseocore
+# BiseoCore
 Personal AI Assistant
